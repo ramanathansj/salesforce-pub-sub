@@ -5,7 +5,7 @@ logs
 *-error.log
 
 # Secret configuration
-.env
+#.env
 keys
 
 # Tooling files
