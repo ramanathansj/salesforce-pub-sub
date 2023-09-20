@@ -1,7 +1,7 @@
 # salesforce-pub-sub
 Dreamforce 2023 Pub/Sub API Implemenation demo of Salesforce Orders and AWS DynamoDB Table
 
-Note : This repo is a fork of Salesforce Pub/Sub immplementation from https://github.com/pozil/pub-sub-api-node-client , This repo contains custom channel implementation enhancement which is not supported in origial repo source code.
+Note : This repo is a fork of Salesforce Pub/Sub immplementation from https://github.com/pozil/pub-sub-api-node-client , This repo contains custom channel implementation enhancement which is not supported in origial repo source as of now.
 
 Integration Pattern
 
