@@ -16,7 +16,7 @@ df2023-diagram-sfdc-dynamodb-pubsub.jpg![image](https://github.com/ramanathansj/
 
 ## Screenshots:
 
-## Start pubsub connector from terminal
+## Start Pub/Sub connector from terminal
 
 <img width="1041" alt="Screen Shot 2023-09-29 at 6 58 22 PM" src="https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/c27d6d91-b0e0-41a7-a15d-196640aa928a">
 
@@ -26,7 +26,7 @@ df2023-diagram-sfdc-dynamodb-pubsub.jpg![image](https://github.com/ramanathansj/
 
 <img width="835" alt="Screen Shot 2023-09-29 at 7 05 44 PM" src="https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/b697de9b-59a5-409b-aeb8-c220897ff4c8">
 
-
+Note : Install Async package from https://github.com/ramanathansj/salesforce-async-request-reply-queues/tree/main and also follow Pub/Sub Instructions
 ## Binary event data received
 
 
