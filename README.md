@@ -27,7 +27,8 @@ Note : This repo is a fork of Salesforce Pub/Sub immplementation from https://gi
 
 <img width="835" alt="Screen Shot 2023-09-29 at 7 05 44 PM" src="https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/b697de9b-59a5-409b-aeb8-c220897ff4c8">
 
-Note : Install Async package from https://github.com/ramanathansj/salesforce-async-request-reply-queues/tree/main and also follow Pub/Sub Instructions
+Note : Install Salesforce customization package from https://github.com/ramanathansj/salesforce-async-request-reply-queues/tree/main and also follow Pub/Sub Instructions
+
 ### Binary event data received
 
 
