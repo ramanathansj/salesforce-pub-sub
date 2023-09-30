@@ -6,7 +6,7 @@ Note : This repo is a fork of Salesforce Pub/Sub immplementation from https://gi
 
 ### Integration Pattern
 
-df2023-diagram-sfdc-dynamodb-pubsub.jpg![image](https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/ebcf4674-d2e3-40a4-8c5d-fc94ae18f2e2)
+![image](https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/ebcf4674-d2e3-40a4-8c5d-fc94ae18f2e2)
 
 
 ### To run project do the following,
