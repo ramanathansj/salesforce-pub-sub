@@ -19,8 +19,7 @@ Note : This repo is a fork of Salesforce Pub/Sub immplementation from https://gi
 
 ### Start Pub/Sub connector from terminal
 
-<img width="1041" alt="Screen Shot 2023-09-29 at 6 58 22 PM" src="https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/c27d6d91-b0e0-41a7-a15d-196640aa928a">
-
+![image](https://github.com/ramanathansj/salesforce-pub-sub/assets/881993/20b5c33e-2093-466c-8303-b9aadcc5ad98)
 
 ### Edit an Order record in Salesforce
 
